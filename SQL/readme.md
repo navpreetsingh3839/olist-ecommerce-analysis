@@ -1,0 +1,11 @@
+SQL Queries:
+[Total Orders by Status.sql](https://github.com/user-attachments/files/30214430/Total.Orders.by.Status.sql)
+[Top States by Revenue.sql](https://github.com/user-attachments/files/30214429/Top.States.by.Revenue.sql)
+[Top states by number of orders.sql](https://github.com/user-attachments/files/30214428/Top.states.by.number.of.orders.sql)
+[Top 10 product categories by revenue..sql](https://github.com/user-attachments/files/30214427/Top.10.product.categories.by.revenue.sql)
+[Top 10 product categories by number of orders.sql](https://github.com/user-attachments/files/30214426/Top.10.product.categories.by.number.of.orders.sql)
+[Review Score Distribution.sql](https://github.com/user-attachments/files/30214424/Review.Score.Distribution.sql)
+[Payment Method Distribution.sql](https://github.com/user-attachments/files/30214423/Payment.Method.Distribution.sql)
+[Monthly order trend.sql](https://github.com/user-attachments/files/30214422/Monthly.order.trend.sql)
+[Delivery Performance.sql](https://github.com/user-attachments/files/30214421/Delivery.Performance.sql)
+[average order value.sql](https://github.com/user-attachments/files/30214419/average.order.value.sql)
